@@ -1,0 +1,4 @@
+.header > .trending > .content > .movie-cards > a:last-child
+{
+    display: block;
+}
